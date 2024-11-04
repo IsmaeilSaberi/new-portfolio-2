@@ -51,7 +51,8 @@
     "react-dom": "18.2.0",
     "recharts": "^2.13.3",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "20.6.2",
